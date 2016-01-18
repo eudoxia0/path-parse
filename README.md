@@ -1,5 +1,7 @@
 # path-parse
 
+[![Build Status](https://travis-ci.org/eudoxia0/path-parse.svg?branch=master)](https://travis-ci.org/eudoxia0/path-parse)
+
 Parse the `PATH` environment variable, portable.
 
 # Usage
