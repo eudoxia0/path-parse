@@ -1,6 +1,7 @@
 # path-parse
 
 [![Build Status](https://travis-ci.org/eudoxia0/path-parse.svg?branch=master)](https://travis-ci.org/eudoxia0/path-parse)
+[![Coverage Status](https://coveralls.io/repos/github/eudoxia0/path-parse/badge.svg?branch=master)](https://coveralls.io/github/eudoxia0/path-parse?branch=master)
 
 Parse the `PATH` environment variable, portable.
 
