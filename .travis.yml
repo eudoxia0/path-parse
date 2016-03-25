@@ -11,8 +11,6 @@ env:
     - LISP=sbcl-bin COVERALLS=true
     - LISP=ccl-bin
     - LISP=abcl
-    - LISP=ecl
-    - LISP=clisp
 
 install:
   # Roswell & coveralls
